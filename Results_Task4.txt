@@ -1,0 +1,6 @@
+Unit 6 Task 4 Run Data
+Time for run 1: 0.001913
+Time for run 2: 0.001293
+Time for run 3: 0.001333
+Average Time for Sort Built-in ASC
+0.004539
